@@ -15,7 +15,7 @@
 ##### POJO는 Beans 객체를 의미함.
 -----
 **특징**
-1. 자바 객체를 직접 관리하는 경량 컨텡
+1. 자바 객체를 직접 관리하는 경량 컨테이너
 
 
 
@@ -24,4 +24,6 @@
 
 
 ---
-##### 참조 [https://goddaehee.tistory.com/156](https://goddaehee.tistory.com/156)
+##### 참조 
+##### [https://goddaehee.tistory.com/156](https://goddaehee.tistory.com/156)
+##### [https://seolin.tistory.com/119](https://seolin.tistory.com/119)
